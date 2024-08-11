@@ -19,7 +19,7 @@
 
 @media (max-width: 425px) {
     body {
-        width: 40px;
+        padding: 40px;
     }
 
     .informacoes .descricao {
